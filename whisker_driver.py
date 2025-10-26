@@ -426,7 +426,7 @@ def start_whisker_simulations(num_whiskers,server_socket:socket.socket,ccx='./cc
         deadline = time.time() + timeout
         while time.time()<deadline:
             ret = p.poll()
-            if ret is not None:
+            if ret is not None and ret !=0:
                 raise RuntimeError(f"Worker {i} exited with status {ret}")
 
             ready, _, _ = select.select([server_socket], [], [], 0.5)
