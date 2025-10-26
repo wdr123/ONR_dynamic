@@ -1,0 +1,8 @@
+vicar
+/shared/rc/whiskers/flow/towing/path1
+2048 1024 1     ! number of **cells** in x,y,z direction, use nz=1 for 2D
+80 2000 		! dump step interval,  start step
+40		  	    ! ddump time interval  (time between two flow dumps)
+45.65           ! area_ref frontal area of 1 wavelength (in numerical dimension)
+1.0             ! Uref     (in m/s)
+1.0             ! Ur_ccx   (in m/s)

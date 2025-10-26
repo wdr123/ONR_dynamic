@@ -1,0 +1,29 @@
+*include,input=whisker_005.beam.inp
+*Nset, Nset=n_root
+1
+
+*BOUNDARY
+n_root,1,3
+n_root,4,6
+
+*TIME POINTS,NAME=T1,GENERATE
+12.5,50000,12.5
+
+*DAMPING,alpha=0.006283,beta=3.978874e-01
+
+**
+*STEP,inc = 1000000,NLGEOM
+*DYNAMIC
+0.2,  10000,  1E-06,  5.5
+*CLOAD
+** loading_points defined in whisker_beam.inp
+loading_points, 1,0.001
+loading_points, 2,0.002
+loading_points, 3,0.003
+
+**/ *NODE FILE,TIME POINTS=T1
+*NODE FILE,time points=t1
+U,V
+*EL FILE,OUTPUT=2D,SECTION FORCES
+S
+*END STEP

@@ -1,0 +1,6 @@
+B32R
+4                              ! nvertex
+36                             ! num_bot_elem: the element number of the bottom face (can count it on the bottom face)
+1                              ! out_field 1: yes, 0: no
+1                              ! output_stress_or_not, 1: yes, 0: no
+1 150 550				       ! is_moving_array (1: yes, 0: no), start_x, start_y

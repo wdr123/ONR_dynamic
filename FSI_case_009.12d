@@ -1,0 +1,212 @@
+ ELEMENT            1 with label "B32R   C" and with nodes:
+          1          2          3
+  is expanded into a "C3D20RBC" element with topology:
+         72         88         89         73         75         91         90         74         80         92
+         81         76         83         94         82         78         79         95         93         77
+
+ ELEMENT            2 with label "B32R   C" and with nodes:
+          3          4          5
+  is expanded into a "C3D20RBC" element with topology:
+         88        104        105         89         91        107        106         90         96        108
+         97         92         99        110         98         94         95        111        109         93
+
+ ELEMENT            3 with label "B32R   C" and with nodes:
+          5          6          7
+  is expanded into a "C3D20RBC" element with topology:
+        104        120        121        105        107        123        122        106        112        124
+        113        108        115        126        114        110        111        127        125        109
+
+ ELEMENT            4 with label "B32R   C" and with nodes:
+          7          8          9
+  is expanded into a "C3D20RBC" element with topology:
+        120        136        137        121        123        139        138        122        128        140
+        129        124        131        142        130        126        127        143        141        125
+
+ ELEMENT            5 with label "B32R   C" and with nodes:
+          9         10         11
+  is expanded into a "C3D20RBC" element with topology:
+        136        152        153        137        139        155        154        138        144        156
+        145        140        147        158        146        142        143        159        157        141
+
+ ELEMENT            6 with label "B32R   C" and with nodes:
+         11         12         13
+  is expanded into a "C3D20RBC" element with topology:
+        152        168        169        153        155        171        170        154        160        172
+        161        156        163        174        162        158        159        175        173        157
+
+ ELEMENT            7 with label "B32R   C" and with nodes:
+         13         14         15
+  is expanded into a "C3D20RBC" element with topology:
+        168        184        185        169        171        187        186        170        176        188
+        177        172        179        190        178        174        175        191        189        173
+
+ ELEMENT            8 with label "B32R   C" and with nodes:
+         15         16         17
+  is expanded into a "C3D20RBC" element with topology:
+        184        200        201        185        187        203        202        186        192        204
+        193        188        195        206        194        190        191        207        205        189
+
+ ELEMENT            9 with label "B32R   C" and with nodes:
+         17         18         19
+  is expanded into a "C3D20RBC" element with topology:
+        200        216        217        201        203        219        218        202        208        220
+        209        204        211        222        210        206        207        223        221        205
+
+ ELEMENT           10 with label "B32R   C" and with nodes:
+         19         20         21
+  is expanded into a "C3D20RBC" element with topology:
+        216        232        233        217        219        235        234        218        224        236
+        225        220        227        238        226        222        223        239        237        221
+
+ ELEMENT           11 with label "B32R   C" and with nodes:
+         21         22         23
+  is expanded into a "C3D20RBC" element with topology:
+        232        248        249        233        235        251        250        234        240        252
+        241        236        243        254        242        238        239        255        253        237
+
+ ELEMENT           12 with label "B32R   C" and with nodes:
+         23         24         25
+  is expanded into a "C3D20RBC" element with topology:
+        248        264        265        249        251        267        266        250        256        268
+        257        252        259        270        258        254        255        271        269        253
+
+ ELEMENT           13 with label "B32R   C" and with nodes:
+         25         26         27
+  is expanded into a "C3D20RBC" element with topology:
+        264        280        281        265        267        283        282        266        272        284
+        273        268        275        286        274        270        271        287        285        269
+
+ ELEMENT           14 with label "B32R   C" and with nodes:
+         27         28         29
+  is expanded into a "C3D20RBC" element with topology:
+        280        296        297        281        283        299        298        282        288        300
+        289        284        291        302        290        286        287        303        301        285
+
+ ELEMENT           15 with label "B32R   C" and with nodes:
+         29         30         31
+  is expanded into a "C3D20RBC" element with topology:
+        296        312        313        297        299        315        314        298        304        316
+        305        300        307        318        306        302        303        319        317        301
+
+ ELEMENT           16 with label "B32R   C" and with nodes:
+         31         32         33
+  is expanded into a "C3D20RBC" element with topology:
+        312        328        329        313        315        331        330        314        320        332
+        321        316        323        334        322        318        319        335        333        317
+
+ ELEMENT           17 with label "B32R   C" and with nodes:
+         33         34         35
+  is expanded into a "C3D20RBC" element with topology:
+        328        344        345        329        331        347        346        330        336        348
+        337        332        339        350        338        334        335        351        349        333
+
+ ELEMENT           18 with label "B32R   C" and with nodes:
+         35         36         37
+  is expanded into a "C3D20RBC" element with topology:
+        344        360        361        345        347        363        362        346        352        364
+        353        348        355        366        354        350        351        367        365        349
+
+ ELEMENT           19 with label "B32R   C" and with nodes:
+         37         38         39
+  is expanded into a "C3D20RBC" element with topology:
+        360        376        377        361        363        379        378        362        368        380
+        369        364        371        382        370        366        367        383        381        365
+
+ ELEMENT           20 with label "B32R   C" and with nodes:
+         39         40         41
+  is expanded into a "C3D20RBC" element with topology:
+        376        392        393        377        379        395        394        378        384        396
+        385        380        387        398        386        382        383        399        397        381
+
+ ELEMENT           21 with label "B32R   C" and with nodes:
+         41         42         43
+  is expanded into a "C3D20RBC" element with topology:
+        392        408        409        393        395        411        410        394        400        412
+        401        396        403        414        402        398        399        415        413        397
+
+ ELEMENT           22 with label "B32R   C" and with nodes:
+         43         44         45
+  is expanded into a "C3D20RBC" element with topology:
+        408        424        425        409        411        427        426        410        416        428
+        417        412        419        430        418        414        415        431        429        413
+
+ ELEMENT           23 with label "B32R   C" and with nodes:
+         45         46         47
+  is expanded into a "C3D20RBC" element with topology:
+        424        440        441        425        427        443        442        426        432        444
+        433        428        435        446        434        430        431        447        445        429
+
+ ELEMENT           24 with label "B32R   C" and with nodes:
+         47         48         49
+  is expanded into a "C3D20RBC" element with topology:
+        440        456        457        441        443        459        458        442        448        460
+        449        444        451        462        450        446        447        463        461        445
+
+ ELEMENT           25 with label "B32R   C" and with nodes:
+         49         50         51
+  is expanded into a "C3D20RBC" element with topology:
+        456        472        473        457        459        475        474        458        464        476
+        465        460        467        478        466        462        463        479        477        461
+
+ ELEMENT           26 with label "B32R   C" and with nodes:
+         51         52         53
+  is expanded into a "C3D20RBC" element with topology:
+        472        488        489        473        475        491        490        474        480        492
+        481        476        483        494        482        478        479        495        493        477
+
+ ELEMENT           27 with label "B32R   C" and with nodes:
+         53         54         55
+  is expanded into a "C3D20RBC" element with topology:
+        488        504        505        489        491        507        506        490        496        508
+        497        492        499        510        498        494        495        511        509        493
+
+ ELEMENT           28 with label "B32R   C" and with nodes:
+         55         56         57
+  is expanded into a "C3D20RBC" element with topology:
+        504        520        521        505        507        523        522        506        512        524
+        513        508        515        526        514        510        511        527        525        509
+
+ ELEMENT           29 with label "B32R   C" and with nodes:
+         57         58         59
+  is expanded into a "C3D20RBC" element with topology:
+        520        536        537        521        523        539        538        522        528        540
+        529        524        531        542        530        526        527        543        541        525
+
+ ELEMENT           30 with label "B32R   C" and with nodes:
+         59         60         61
+  is expanded into a "C3D20RBC" element with topology:
+        536        552        553        537        539        555        554        538        544        556
+        545        540        547        558        546        542        543        559        557        541
+
+ ELEMENT           31 with label "B32R   C" and with nodes:
+         61         62         63
+  is expanded into a "C3D20RBC" element with topology:
+        552        568        569        553        555        571        570        554        560        572
+        561        556        563        574        562        558        559        575        573        557
+
+ ELEMENT           32 with label "B32R   C" and with nodes:
+         63         64         65
+  is expanded into a "C3D20RBC" element with topology:
+        568        584        585        569        571        587        586        570        576        588
+        577        572        579        590        578        574        575        591        589        573
+
+ ELEMENT           33 with label "B32R   C" and with nodes:
+         65         66         67
+  is expanded into a "C3D20RBC" element with topology:
+        584        600        601        585        587        603        602        586        592        604
+        593        588        595        606        594        590        591        607        605        589
+
+ ELEMENT           34 with label "B32R   C" and with nodes:
+         67         68         69
+  is expanded into a "C3D20RBC" element with topology:
+        600        616        617        601        603        619        618        602        608        620
+        609        604        611        622        610        606        607        623        621        605
+
+ ELEMENT           35 with label "B32R   C" and with nodes:
+         69         70         71
+  is expanded into a "C3D20RBC" element with topology:
+        616        632        633        617        619        635        634        618        624        636
+        625        620        627        638        626        622        623        639        637        621
+
+ a KNOT was generated in node            1
+

@@ -1,0 +1,20 @@
+# number of base models
+1
+# basemodel pathnames (1 line for each base model, order is referenced by individual whiskers)
+whisker.cab
+# number of whiskers
+9
+# **fixed width** array inputs. index, root offset, and 3 rotation axis & angle, 1:X, 2:Y, 3:Z.
+#No       id_tag base           dx           dy           dz 1st 1st_a 2nd 2nd_a 3rd 3rd_a
+  1         w001    1        -20.0        -20.0          0.0   3     0   1     0   2     0
+  2         w002    1          0.0        -20.0          0.0   3     0   1     0   2     0
+  3         w003    1         20.0        -20.0          0.0   3     0   1     0   2     0
+  4         w004    1        -20.0          0.0          0.0   3     0   1     0   2     0
+  5         w005    1          0.0          0.0          0.0   3     0   1     0   2     0
+  6         w006    1         20.0          0.0          0.0   3     0   1     0   2     0
+  7         w007    1        -20.0         20.0          0.0   3     0   1     0   2     0
+  8         w008    1          0.0         20.0          0.0   3     0   1     0   2     0
+  9         w009    1         20.0         20.0          0.0   3     0   1     0   2     0
+# **fixed width** global transform inputs. Used to place array in flow domain
+#          dx           dy           dz 1st 1st_a 2nd 2nd_a 3rd 3rd_a
+            0            0            0   1     0   2     0   3     0

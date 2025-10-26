@@ -1,0 +1,16 @@
+
+** for the cross-validation case
+** _U_ = 0.5 m/s
+** _p_ = 0.25 kPa
+** Materials +++++++++++++++++++++++++++++++++++++++++++++++
+** 
+** uses resin material
+*MATERIAL,NAME=whisker_mat
+*ELASTIC
+  4.4e6,  0.40
+*DENSITY
+** 1.1 + 1.5( added mass)
+  2.6
+
+
+
